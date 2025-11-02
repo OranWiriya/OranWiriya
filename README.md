@@ -1,7 +1,7 @@
 Hi 👋 My name is Oran Wiriya
 ============================
 
-Frontend Dev., Designer, Architect
+Designer, Architect, Software Engineer
 ----------------------------------
 
 *   🌍  I'm based in Bangkok, Thailand
