@@ -5,7 +5,7 @@ Frontend Dev., Designer, Architect
 ----------------------------------
 
 *   🌍  I'm based in Bangkok, Thailand
-*   🖥️  See my portfolio at [lets check it :)](http://oranwiriya.github.io/portfolio-website/)
+*   🖥️  See my portfolio at [lets check it :)](http://oranw.framer.website/)
 *   ✉️  You can contact me at [wiriya.oran@gmail.com](mailto:wiriya.oran@gmail.com)
 
 <a href="https://www.github.com/OranWiriya" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/OranWiriya?logo=github&style=for-the-badge&color=ec4899&labelColor=27272a" /></a>
